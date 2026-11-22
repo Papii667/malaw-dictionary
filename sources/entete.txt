@@ -1,0 +1,1 @@
+dictionary=main:malaw,locale=fr,description=Malaw Dictionnaire Hacker,date=1795308118,version=1
