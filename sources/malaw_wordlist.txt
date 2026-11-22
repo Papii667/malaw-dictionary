@@ -1,4 +1,4 @@
-dictionary=main:malaw,locale=fr,description=Malaw Dictionnaire Hacker,date=1795308118,version=1
+dictionary=main:malaw,locale=en,description=Malaw Dictionnaire Hacker,date=1795308118,version=1
  word=addpart,f=100
  word=alias,f=100
  word=am,f=100
