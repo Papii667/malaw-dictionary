@@ -1,33 +1,33 @@
-# Roadmap de Malaw
+# Malaw Roadmap
 
-Malaw est un clavier Android pour le terminal et la cybersécurité, basé sur HeliBoard.
+Malaw is an Android keyboard for the terminal and cybersecurity, based on HeliBoard.
 
-## Phase 0 : dictionnaire (terminé)
-- [x] Dépôt malaw-dictionary en ligne
-- [x] Dictionnaire en trois niveaux de priorité (basiques, outils de sécurité, autres)
-- [x] Retrait des mots réservés du shell
-- [x] Identité visuelle : signature et maquette
-- [ ] Script build.sh pour régénérer le dictionnaire
+## Phase 0: dictionary (done)
+- [x] malaw-dictionary repository online
+- [x] Three-level priority dictionary (basic commands, security tools, others)
+- [x] Shell reserved words removed
+- [x] Visual identity: signature and mockup
+- [ ] build.sh script to regenerate the dictionary
 
-## Phase 1 : le fork qui compile
-- [ ] Fork malaw-keyboard à partir de HeliBoard
-- [ ] Activation de GitHub Actions et première compilation
-- [ ] Nom, icône et applicationId
-- [ ] Crédits à HeliBoard dans le README
+## Phase 1: a fork that builds
+- [ ] Fork HeliBoard as malaw-keyboard
+- [ ] Enable GitHub Actions and run a first build
+- [ ] Name, icon and applicationId
+- [ ] Credit HeliBoard in the README
 
-## Phase 2 : l'identité de Malaw
-- [ ] Thème par défaut : fond sombre, accent violet, signature Malaw
-- [ ] Rangée de touches terminal : Ctrl, Esc, Tab, flèches, | ~ / -
-- [ ] Passage automatique sur Malaw dans Termux
-- [ ] Dictionnaire intégré dans l'APK
+## Phase 2: Malaw identity
+- [ ] Default theme: dark background, purple accent, Malaw signature
+- [ ] Terminal key row: Ctrl, Esc, Tab, arrows, | ~ / -
+- [ ] Automatic switch to Malaw in Termux
+- [ ] Dictionary bundled in the APK
 
-## Phase 3 : les suggestions intelligentes
-- [ ] Classement strict : les mots qui commencent par la lettre tapée d'abord, puis les basiques avant les outils
-- [ ] Malaw Assist : correction des commandes mal tapées, avec interrupteur et trois niveaux (désactivé, suggestions seulement, correction automatique)
-- [ ] Options et sous-commandes (-sV, --script...), si le format le permet
-- [ ] Courte description de chaque commande, pour les débutants
+## Phase 3: smart suggestions
+- [ ] Strict ranking: words starting with the typed letters first, then basic commands before tools
+- [ ] Malaw Assist: correction of mistyped commands, with a switch and three levels (off, suggestions only, auto-correct)
+- [ ] Options and subcommands (-sV, --script...), if the format allows it
+- [ ] Short description of each command, for beginners
 
-## Phase 4 : la publication
-- [ ] README complet avec captures et vidéo
-- [ ] Première release APK sur GitHub
-- [ ] Annonce sur X
+## Phase 4: release
+- [ ] Full README with screenshots and a video
+- [ ] First APK release on GitHub
+- [ ] Announcement on X
