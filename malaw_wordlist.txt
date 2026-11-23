@@ -1,20 +1,127 @@
-dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308118,version=1
- word=addpart,f=100
+dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795391883,version=2
+ word=apt,f=250
+ word=cat,f=250
+ word=cd,f=250
+ word=chmod,f=250
+ word=chown,f=250
+ word=clear,f=250
+ word=cp,f=250
+ word=curl,f=250
+ word=echo,f=250
+ word=exit,f=250
+ word=find,f=250
+ word=git,f=250
+ word=grep,f=250
+ word=head,f=250
+ word=history,f=250
+ word=kill,f=250
+ word=less,f=250
+ word=ls,f=250
+ word=man,f=250
+ word=mkdir,f=250
+ word=mv,f=250
+ word=nano,f=250
+ word=ping,f=250
+ word=pip,f=250
+ word=pkg,f=250
+ word=ps,f=250
+ word=pwd,f=250
+ word=python3,f=250
+ word=rm,f=250
+ word=rmdir,f=250
+ word=scp,f=250
+ word=ssh,f=250
+ word=sudo,f=250
+ word=tail,f=250
+ word=tar,f=250
+ word=top,f=250
+ word=touch,f=250
+ word=unzip,f=250
+ word=vim,f=250
+ word=wget,f=250
+ word=which,f=250
  word=aircrack-ng,f=150
  word=aireplay-ng,f=150
  word=airmon-ng,f=150
  word=airodump-ng,f=150
+ word=amass,f=150
+ word=arpspoof,f=150
+ word=bettercap,f=150
+ word=binwalk,f=150
+ word=burpsuite,f=150
+ word=chisel,f=150
+ word=crackmapexec,f=150
+ word=dig,f=150
+ word=dirb,f=150
+ word=dirbuster,f=150
+ word=enum4linux,f=150
+ word=ettercap,f=150
+ word=exiftool,f=150
+ word=exploitdb,f=150
+ word=feroxbuster,f=150
+ word=ffuf,f=150
+ word=foremost,f=150
+ word=gdb,f=150
+ word=ghidra,f=150
+ word=gobuster,f=150
+ word=gpg,f=150
+ word=hashcat,f=150
+ word=httpx,f=150
+ word=hydra,f=150
+ word=john,f=150
+ word=macchanger,f=150
+ word=masscan,f=150
+ word=medusa,f=150
+ word=metasploit,f=150
+ word=msfconsole,f=150
+ word=msfvenom,f=150
+ word=ncat,f=150
+ word=netcat,f=150
+ word=ngrok,f=150
+ word=nikto,f=150
+ word=nmap,f=150
+ word=nslookup,f=150
+ word=nuclei,f=150
+ word=objdump,f=150
+ word=openssl,f=150
+ word=proxychains,f=150
+ word=radare2,f=150
+ word=recon-ng,f=150
+ word=responder,f=150
+ word=searchsploit,f=150
+ word=smbclient,f=150
+ word=smbmap,f=150
+ word=socat,f=150
+ word=sqlmap,f=150
+ word=ssh-keygen,f=150
+ word=sshpass,f=150
+ word=steghide,f=150
+ word=strings,f=150
+ word=subfinder,f=150
+ word=sublist3r,f=150
+ word=tcpdump,f=150
+ word=theharvester,f=150
+ word=tmux,f=150
+ word=tor,f=150
+ word=torsocks,f=150
+ word=traceroute,f=150
+ word=tshark,f=150
+ word=volatility,f=150
+ word=wafw00f,f=150
+ word=wfuzz,f=150
+ word=whatweb,f=150
+ word=whois,f=150
+ word=wireshark,f=150
+ word=wpscan,f=150
+ word=addpart,f=100
  word=alias,f=100
  word=am,f=100
- word=amass,f=150
- word=apt,f=100
  word=apt-cache,f=100
  word=apt-config,f=100
  word=apt-get,f=100
  word=apt-key,f=100
  word=apt-mark,f=100
  word=arp,f=100
- word=arpspoof,f=150
  word=asn1Coding,f=100
  word=asn1Decoding,f=100
  word=asn1Parser,f=100
@@ -26,17 +133,14 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308
  word=basename,f=100
  word=basenc,f=100
  word=bash,f=100
- word=bettercap,f=150
  word=bg,f=100
  word=bind,f=100
- word=binwalk,f=150
  word=bits,f=100
  word=blkpr,f=100
  word=blockdev,f=100
  word=break,f=100
  word=builtin,f=100
  word=bunzip2,f=100
- word=burpsuite,f=150
  word=bzcat,f=100
  word=bzcmp,f=100
  word=bzdiff,f=100
@@ -48,21 +152,15 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308
  word=cal,f=100
  word=caller,f=100
  word=case,f=100
- word=cat,f=100
- word=cd,f=100
  word=chacl,f=100
  word=chcon,f=100
  word=chcpu,f=100
  word=chgrp,f=100
- word=chisel,f=150
- word=chmod,f=100
  word=choom,f=100
- word=chown,f=100
  word=chroot,f=100
  word=chrt,f=100
  word=chsh,f=100
  word=cksum,f=100
- word=clear,f=100
  word=cmd,f=100
  word=cmp,f=100
  word=col,f=100
@@ -80,11 +178,8 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308
  word=coproc,f=100
  word=coresched,f=100
  word=coreutils,f=100
- word=cp,f=100
- word=crackmapexec,f=150
  word=csplit,f=100
  word=ctrlaltdel,f=100
- word=curl,f=150
  word=curl-config,f=100
  word=cut,f=100
  word=dalvikvm,f=100
@@ -97,10 +192,7 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308
  word=dialog,f=100
  word=diff,f=100
  word=diff3,f=100
- word=dig,f=150
  word=dir,f=100
- word=dirb,f=150
- word=dirbuster,f=150
  word=dircolors,f=100
  word=dirname,f=100
  word=dirs,f=100
@@ -123,7 +215,6 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308
  word=drill,f=100
  word=du,f=100
  word=dumpsexp,f=100
- word=echo,f=100
  word=ed,f=100
  word=editor,f=100
  word=egrep,f=100
@@ -131,17 +222,12 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308
  word=else,f=100
  word=enable,f=100
  word=enosys,f=100
- word=enum4linux,f=150
  word=env,f=100
  word=esac,f=100
- word=ettercap,f=150
  word=eval,f=100
  word=exch,f=100
  word=exec,f=100
- word=exiftool,f=150
- word=exit,f=100
  word=expand,f=100
- word=exploitdb,f=150
  word=export,f=100
  word=expr,f=100
  word=factor,f=100
@@ -149,19 +235,15 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308
  word=fallocate,f=100
  word=false,f=100
  word=fc,f=100
- word=feroxbuster,f=150
- word=ffuf,f=150
  word=fg,f=100
  word=fgrep,f=100
  word=fi,f=100
  word=filecap,f=100
  word=fincore,f=100
- word=find,f=100
  word=flock,f=100
  word=fmt,f=100
  word=fold,f=100
  word=for,f=100
- word=foremost,f=150
  word=free,f=100
  word=fsfreeze,f=100
  word=ftp,f=100
@@ -175,26 +257,20 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308
  word=gawkpath_append,f=100
  word=gawkpath_default,f=100
  word=gawkpath_prepend,f=100
- word=gdb,f=150
  word=getfacl,f=100
  word=getfattr,f=100
  word=getopt,f=100
  word=getopts,f=100
  word=getprop,f=100
- word=ghidra,f=150
- word=git,f=150
  word=git-cvsserver,f=100
  word=git-receive-pack,f=100
  word=git-shell,f=100
  word=git-upload-archive,f=100
  word=git-upload-pack,f=100
- word=gobuster,f=150
- word=gpg,f=150
  word=gpg-error,f=100
  word=gpg-error-config,f=100
  word=gpgrt-config,f=100
  word=gpgv,f=100
- word=grep,f=100
  word=groups,f=100
  word=gss-client,f=100
  word=gss-server,f=100
@@ -203,17 +279,12 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308
  word=gzip,f=100
  word=hardlink,f=100
  word=hash,f=100
- word=hashcat,f=150
- word=head,f=100
  word=help,f=100
  word=hexdump,f=100
- word=history,f=100
  word=hmac256,f=100
  word=hostname,f=100
- word=httpx,f=150
  word=hugetop,f=100
  word=hwclock,f=100
- word=hydra,f=150
  word=id,f=100
  word=idn2,f=100
  word=if,f=100
@@ -227,14 +298,12 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308
  word=ischroot,f=100
  word=isosize,f=100
  word=jobs,f=100
- word=john,f=150
  word=join,f=100
  word=k5srvutil,f=100
  word=kadmin,f=100
  word=kadmind,f=100
  word=kdb5_util,f=100
  word=kdestroy,f=100
- word=kill,f=100
  word=killall,f=100
  word=kinit,f=100
  word=klist,f=100
@@ -250,7 +319,6 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308
  word=kvno,f=100
  word=ldattach,f=100
  word=ldns-config,f=100
- word=less,f=100
  word=let,f=100
  word=libassuan-config,f=100
  word=libgcrypt-config,f=100
@@ -266,7 +334,6 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308
  word=logout,f=100
  word=look,f=100
  word=losetup,f=100
- word=ls,f=100
  word=lsclocks,f=100
  word=lscpu,f=100
  word=lsfd,f=100
@@ -288,15 +355,10 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308
  word=lzmainfo,f=100
  word=lzmore,f=100
  word=mac2unix,f=100
- word=macchanger,f=150
  word=mapfile,f=100
- word=masscan,f=150
  word=mcookie,f=100
  word=md5sum,f=100
- word=medusa,f=150
- word=metasploit,f=150
  word=mii-tool,f=100
- word=mkdir,f=100
  word=mkfifo,f=100
  word=mkfs,f=100
  word=mknod,f=100
@@ -304,34 +366,21 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308
  word=mktemp,f=100
  word=more,f=100
  word=mpicalc,f=100
- word=msfconsole,f=150
- word=msfvenom,f=150
- word=mv,f=100
  word=namei,f=100
  word=nameif,f=100
- word=nano,f=150
  word=nc,f=100
- word=ncat,f=150
  word=ncursesw6-config,f=100
  word=netcap,f=100
- word=netcat,f=150
  word=netcat-nmap,f=100
  word=netstat,f=100
- word=ngrok,f=150
  word=nice,f=100
- word=nikto,f=150
  word=nl,f=100
- word=nmap,f=150
  word=nohup,f=100
  word=nping,f=100
  word=nproc,f=100
  word=nsenter,f=100
- word=nslookup,f=150
- word=nuclei,f=150
  word=numfmt,f=100
- word=objdump,f=150
  word=od,f=100
- word=openssl,f=150
  word=p11-kit,f=100
  word=pager,f=100
  word=passwd,f=100
@@ -342,11 +391,8 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308
  word=peekfd,f=100
  word=pgrep,f=100
  word=pidof,f=100
- word=ping,f=100
  word=ping6,f=100
- word=pip,f=150
  word=pipesz,f=100
- word=pkg,f=100
  word=pkill,f=100
  word=plipconfig,f=100
  word=pm,f=100
@@ -356,19 +402,14 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308
  word=printenv,f=100
  word=printf,f=100
  word=prlimit,f=100
- word=proxychains,f=150
  word=prtstat,f=100
- word=ps,f=100
  word=pscap,f=100
  word=pslog,f=100
  word=pstree,f=100
  word=ptx,f=100
  word=pushd,f=100
- word=pwd,f=100
  word=pwdx,f=100
  word=pwlogin,f=100
- word=python3,f=150
- word=radare2,f=150
  word=rarp,f=100
  word=read,f=100
  word=readarray,f=100
@@ -376,17 +417,13 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308
  word=readonly,f=100
  word=readprofile,f=100
  word=realpath,f=100
- word=recon-ng,f=150
  word=red,f=100
  word=rename,f=100
  word=renice,f=100
  word=reset,f=100
  word=resizepart,f=100
- word=responder,f=150
  word=return,f=100
  word=rev,f=100
- word=rm,f=100
- word=rmdir,f=100
  word=route,f=100
  word=rtcwake,f=100
  word=run-parts,f=100
@@ -394,13 +431,11 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308
  word=savelog,f=100
  word=scalar,f=100
  word=sclient,f=100
- word=scp,f=100
  word=scpa,f=100
  word=script,f=100
  word=scriptlive,f=100
  word=scriptreplay,f=100
  word=sdiff,f=100
- word=searchsploit,f=150
  word=sed,f=100
  word=select,f=100
  word=seq,f=100
@@ -429,41 +464,27 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308
  word=sim_server,f=100
  word=slattach,f=100
  word=sleep,f=100
- word=smbclient,f=150
- word=smbmap,f=150
- word=socat,f=150
  word=sort,f=100
  word=source,f=100
  word=split,f=100
- word=sqlmap,f=150
  word=sserver,f=100
- word=ssh,f=100
  word=ssh-add,f=100
  word=ssh-agent,f=100
  word=ssh-copy-id,f=100
- word=ssh-keygen,f=150
  word=ssh-keyscan,f=100
  word=ssha,f=100
  word=sshd,f=100
- word=sshpass,f=150
  word=start-stop-daemon,f=100
  word=stat,f=100
  word=stdbuf,f=100
- word=steghide,f=150
- word=strings,f=150
  word=stty,f=100
  word=su,f=100
- word=subfinder,f=150
- word=sublist3r,f=150
  word=sum,f=100
  word=suspend,f=100
  word=sync,f=100
  word=sysctl,f=100
  word=tac,f=100
- word=tail,f=100
- word=tar,f=100
  word=taskset,f=100
- word=tcpdump,f=150
  word=tee,f=100
  word=telnet,f=100
  word=tempfile,f=100
@@ -488,25 +509,17 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308
  word=termux-wake-unlock,f=100
  word=test,f=100
  word=tftp,f=100
- word=theharvester,f=150
  word=then,f=100
  word=time,f=100
  word=timeout,f=100
  word=times,f=100
  word=tload,f=100
- word=tmux,f=150
- word=top,f=100
- word=tor,f=150
- word=torsocks,f=150
- word=touch,f=100
  word=tr,f=100
- word=traceroute,f=150
  word=trap,f=100
  word=true,f=100
  word=truncate,f=100
  word=trust,f=100
  word=tset,f=100
- word=tshark,f=150
  word=tsort,f=100
  word=tty,f=100
  word=type,f=100
@@ -529,7 +542,6 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308
  word=unshare,f=100
  word=until,f=100
  word=unxz,f=100
- word=unzip,f=100
  word=unzipsfx,f=100
  word=unzstd,f=100
  word=update-alternatives,f=100
@@ -537,25 +549,16 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795308
  word=uuclient,f=100
  word=uuserver,f=100
  word=vdir,f=100
- word=vim,f=150
  word=vmstat,f=100
- word=volatility,f=150
- word=wafw00f,f=150
  word=wait,f=100
  word=waitpid,f=100
  word=watch,f=100
  word=wc,f=100
  word=wcurl,f=100
  word=wdctl,f=100
- word=wfuzz,f=150
- word=wget,f=150
- word=whatweb,f=150
  word=whereis,f=100
  word=while,f=100
  word=whoami,f=100
- word=whois,f=150
- word=wireshark,f=150
- word=wpscan,f=150
  word=xargs,f=100
  word=xdg-open,f=100
  word=xxh128sum,f=100
