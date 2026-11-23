@@ -151,7 +151,6 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795391
  word=bzmore,f=140
  word=cal,f=140
  word=caller,f=140
- word=case,f=140
  word=chacl,f=140
  word=chcon,f=140
  word=chcpu,f=140
@@ -175,7 +174,6 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795391
  word=complete,f=140
  word=compopt,f=140
  word=continue,f=140
- word=coproc,f=140
  word=coresched,f=140
  word=coreutils,f=140
  word=csplit,f=140
@@ -199,8 +197,6 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795391
  word=disown,f=140
  word=dmesg,f=140
  word=dnsdomainname,f=140
- word=do,f=140
- word=done,f=140
  word=dos2unix,f=140
  word=dpkg,f=140
  word=dpkg-buildapi,f=140
@@ -218,12 +214,9 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795391
  word=ed,f=140
  word=editor,f=140
  word=egrep,f=140
- word=elif,f=140
- word=else,f=140
  word=enable,f=140
  word=enosys,f=140
  word=env,f=140
- word=esac,f=140
  word=eval,f=140
  word=exch,f=140
  word=exec,f=140
@@ -237,17 +230,14 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795391
  word=fc,f=140
  word=fg,f=140
  word=fgrep,f=140
- word=fi,f=140
  word=filecap,f=140
  word=fincore,f=140
  word=flock,f=140
  word=fmt,f=140
  word=fold,f=140
- word=for,f=140
  word=free,f=140
  word=fsfreeze,f=140
  word=ftp,f=140
- word=function,f=140
  word=funzip,f=140
  word=fuser,f=140
  word=gawk,f=140
@@ -287,9 +277,7 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795391
  word=hwclock,f=140
  word=id,f=140
  word=idn2,f=140
- word=if,f=140
  word=ifconfig,f=140
- word=in,f=140
  word=install,f=140
  word=ionice,f=140
  word=ipmaddr,f=140
@@ -437,7 +425,6 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795391
  word=scriptreplay,f=140
  word=sdiff,f=140
  word=sed,f=140
- word=select,f=140
  word=seq,f=140
  word=set,f=140
  word=setarch,f=140
@@ -509,7 +496,6 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795391
  word=termux-wake-unlock,f=140
  word=test,f=140
  word=tftp,f=140
- word=then,f=140
  word=time,f=140
  word=timeout,f=140
  word=times,f=140
@@ -540,7 +526,6 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795391
  word=unlzma,f=140
  word=unset,f=140
  word=unshare,f=140
- word=until,f=140
  word=unxz,f=140
  word=unzipsfx,f=140
  word=unzstd,f=140
@@ -557,7 +542,6 @@ dictionary=main:malaw,locale=en,description=Malaw Hacker Dictionary,date=1795391
  word=wcurl,f=140
  word=wdctl,f=140
  word=whereis,f=140
- word=while,f=140
  word=whoami,f=140
  word=xargs,f=140
  word=xdg-open,f=140
